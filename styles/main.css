@@ -1,0 +1,32 @@
+.pageHeader {
+    display: flex;
+    justify-content: center;
+}
+
+.fish {
+    display: flex;
+    justify-content: center;
+}
+
+.fishySection {
+    display: flex;
+    flex-direction: row;
+}
+
+/* .fishList {
+    border: 2px solid black;
+
+} */
+
+.asideTips {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+}
+
+.locations {
+    display: flex;
+    justify-content: center;
+}
+
